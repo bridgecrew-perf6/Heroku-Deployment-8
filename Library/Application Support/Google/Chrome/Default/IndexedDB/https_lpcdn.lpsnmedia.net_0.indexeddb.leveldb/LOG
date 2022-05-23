@@ -1,0 +1,6 @@
+2022/04/18-23:00:02.809 4171f Creating DB /Users/DanSlebodnick/Library/Application Support/Google/Chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb since it was missing.
+2022/04/18-23:00:02.878 4171f Reusing MANIFEST /Users/DanSlebodnick/Library/Application Support/Google/Chrome/Default/IndexedDB/https_lpcdn.lpsnmedia.net_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/18-23:00:05.718 4a89f Level-0 table #5: started
+2022/04/18-23:00:05.740 4a89f Level-0 table #5: 1746 bytes OK
+2022/04/18-23:00:05.784 4a89f Delete type=0 #3
+2022/04/18-23:00:05.784 43f5f Manual compaction at level-0 from (begin) .. (end); will stop at (end)

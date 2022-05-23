@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    height: 50px;
+    background-color: #a2cbb6;
+
+}
+
+/* .nav-item: last-child {
+    margin-left: auto;
+} */
+
+/* nav > :nth-child(4){
+    margin-left: auto;
+} */
+
+nav>div:last-child {
+    margin-left: auto;
+}
+
+nav>div {
+    font-size: 20px;
+    margin: 10px;
+    color: #f3dba8;
+
+}
+
+/* .nav-item  */
+/* font-size: 20px;
+margin: 10px;
+color: #f3dba8; */
+
+body {
+    display: grid;
+    height: 100vh;
+    margin: 0;
+    font-family: Helvetica;
+}
+
+aside {
+    background-color: #a2b4da;
+}
+
+main {
+    background-color: #f3dba8;
+}
+
+footer {
+    background-color: #a2cbb6;
+}
+
+
+
+/* example of a box */
+/* .box{
+    height: 20px;
+    width: 50px;
+    border:solid red 2px;
+
+
+} */

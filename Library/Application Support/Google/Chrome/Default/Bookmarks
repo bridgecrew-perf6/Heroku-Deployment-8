@@ -1,0 +1,82 @@
+{
+   "checksum": "c46f9649dd0d94a8a77ae68e128374c7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13294720394576419",
+            "guid": "954f082d-1816-4d16-9bdd-dbaf3876940f",
+            "id": "5",
+            "name": "",
+            "type": "url",
+            "url": "https://www.yahoo.com/"
+         }, {
+            "date_added": "13294889502486903",
+            "guid": "bb23d423-cdae-4ef1-9b42-91bd1d0eb71e",
+            "id": "7",
+            "name": "",
+            "type": "url",
+            "url": "https://sportsbetting.ag/join?&btag=6-MasoofLdRSNQpQ9rAiM2Nd7ZgqdRLk&affid=101553"
+         }, {
+            "date_added": "13295496059209066",
+            "guid": "7cf6c95d-5124-4c7c-a8e4-75bb73f88bb2",
+            "id": "9",
+            "name": "Edabit // Learn to Code with 10,000+ Interactive Challenges",
+            "type": "url",
+            "url": "https://edabit.com/"
+         }, {
+            "date_added": "13295496821456619",
+            "guid": "4f123743-a43c-4c94-aba8-e65f0b46fa1d",
+            "id": "11",
+            "name": "Meetup - We are what we do",
+            "type": "url",
+            "url": "https://www.meetup.com/"
+         }, {
+            "date_added": "13295544582212422",
+            "guid": "c78e8935-f99b-4f9c-9f21-7cd933b9b938",
+            "id": "13",
+            "name": "MDN Web Docs",
+            "type": "url",
+            "url": "https://developer.mozilla.org/en-US/"
+         }, {
+            "date_added": "13295805781863477",
+            "guid": "14d6d879-ac49-42e1-bcd0-6f410c673373",
+            "id": "15",
+            "name": "Home | SEIR \"Batch Cohort\" 04/25/2022",
+            "type": "url",
+            "url": "https://seir-batch.netlify.app/"
+         }, {
+            "date_added": "13295976633680804",
+            "guid": "52eded13-653c-4346-840b-c00c32249812",
+            "id": "18",
+            "name": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
+            "type": "url",
+            "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+         } ],
+         "date_added": "13294624935772115",
+         "date_modified": "13295976633680804",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks Bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13294624935772117",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other Bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13294624935772118",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile Bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

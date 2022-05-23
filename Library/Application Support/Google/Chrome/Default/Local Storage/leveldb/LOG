@@ -1,0 +1,9 @@
+2022/05/02-08:59:38.842 5303 Reusing MANIFEST /Users/DanSlebodnick/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/02-08:59:38.843 5303 Recovering log #165
+2022/05/02-08:59:38.843 5303 Reusing old log /Users/DanSlebodnick/Library/Application Support/Google/Chrome/Default/Local Storage/leveldb/000165.log 
+2022/05/02-09:50:00.482 4e1f Level-0 table #170: started
+2022/05/02-09:50:00.508 4e1f Level-0 table #170: 20292 bytes OK
+2022/05/02-09:50:00.554 4e1f Delete type=0 #165
+2022/05/02-09:54:21.218 4e1f Level-0 table #172: started
+2022/05/02-09:54:21.242 4e1f Level-0 table #172: 59485 bytes OK
+2022/05/02-09:54:21.286 4e1f Delete type=0 #169

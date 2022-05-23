@@ -1,0 +1,24 @@
+Last login: Thu Apr 28 21:32:42 on ttys000
+DanSlebodnick@Garys-MBP ~ % mkdir intro-to-dom/
+DanSlebodnick@Garys-MBP ~ % cd intro-to-dom/ 
+DanSlebodnick@Garys-MBP intro-to-dom % touch index.html script.js
+DanSlebodnick@Garys-MBP intro-to-dom % ls
+index.html	script.js
+DanSlebodnick@Garys-MBP intro-to-dom % cd .
+DanSlebodnick@Garys-MBP intro-to-dom % pwd
+/Users/DanSlebodnick/intro-to-dom
+DanSlebodnick@Garys-MBP intro-to-dom % cd ..
+DanSlebodnick@Garys-MBP ~ % cd intro-to-dom/
+DanSlebodnick@Garys-MBP intro-to-dom % ls
+index.html	script.js
+DanSlebodnick@Garys-MBP intro-to-dom % touch style.css
+DanSlebodnick@Garys-MBP intro-to-dom % ls
+index.html	script.js	style.css
+DanSlebodnick@Garys-MBP intro-to-dom % code .
+DanSlebodnick@Garys-MBP intro-to-dom % 
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+2022/04/20-21:49:12.302 4e36f Creating DB /Users/DanSlebodnick/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.cam4.com_0.indexeddb.leveldb since it was missing.
+2022/04/20-21:49:12.390 4e36f Reusing MANIFEST /Users/DanSlebodnick/Library/Application Support/Google/Chrome/Default/IndexedDB/https_www.cam4.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/20-21:49:14.580 4d637 Level-0 table #5: started
+2022/04/20-21:49:14.602 4d637 Level-0 table #5: 1737 bytes OK
+2022/04/20-21:49:14.645 4d637 Delete type=0 #3
+2022/04/20-21:49:14.645 4d637 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

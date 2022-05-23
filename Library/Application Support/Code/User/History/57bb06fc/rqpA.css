@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    /* background-color: slategray; */
+}
+/* example of a box */
+/* .box{
+    height: 20px;
+    width: 50px;
+    border:solid red 2px;
+
+
+} */
+nav{ 
+    display: flex;
+    
+
+}

@@ -1,0 +1,7 @@
+{
+    "workbench.editor.enablePreview": false,
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 2,
+    "editor.wordWrap": "on",
+    "liveServer.settings.donotShowInfoMsg": true
+}

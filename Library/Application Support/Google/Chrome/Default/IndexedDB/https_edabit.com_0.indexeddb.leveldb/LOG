@@ -1,0 +1,6 @@
+2022/04/26-21:24:22.452 31103 Creating DB /Users/DanSlebodnick/Library/Application Support/Google/Chrome/Default/IndexedDB/https_edabit.com_0.indexeddb.leveldb since it was missing.
+2022/04/26-21:24:22.518 31103 Reusing MANIFEST /Users/DanSlebodnick/Library/Application Support/Google/Chrome/Default/IndexedDB/https_edabit.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/26-21:24:52.151 31103 Level-0 table #5: started
+2022/04/26-21:24:52.174 31103 Level-0 table #5: 6120 bytes OK
+2022/04/26-21:24:52.220 31103 Delete type=0 #3
+2022/04/26-21:24:52.221 31103 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
